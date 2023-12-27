@@ -3,7 +3,6 @@ package main
 import (
 	"container/list"
 	"errors"
-	"go/format"
 	"sync"
 	"sync/atomic"
 	"time"
